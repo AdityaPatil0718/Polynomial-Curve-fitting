@@ -23,7 +23,9 @@ A training data set of N = 10 points, (blue circles),
 ![image](https://github.com/AdityaPatil0718/Polynomial-Curve-fitting/assets/128233555/d2813953-4ddb-4655-9427-a4904e3a12c4)
 
 We try to fit the data using a polynomial function of the form
- 
+
+ ![image](https://github.com/AdityaPatil0718/Polynomial-Curve-fitting/assets/128233555/9f34419b-71e5-4740-88b8-f563e1619e1e)
+
 
 
 
